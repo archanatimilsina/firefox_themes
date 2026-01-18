@@ -1,0 +1,32 @@
+{
+  "manifest_version": 2,
+  "name": "Red Theme",
+  "version": "1.0.0",
+  "description": "A red-themed theme based on shades of red.",
+  "theme": {
+    "colors": {
+      "frame": "#FBC2C2",
+      "frame_inactive": "#FBC2C2",
+
+      "toolbar": "#FFB3B3",
+      "toolbar_text": "#000000",
+
+      "tab_background_text": "#000000",
+      "tab_background": "#FFFFFF",
+      "tab_text": "#FFFFFF",
+      "tab_selected": "#FF4D4D",
+      "tab_selected_text": "#FFFFFF",
+      "tab_selected_border": "#000000",
+
+      "toolbar_field": "#FFFFFF",
+      "toolbar_field_text": "#000000",
+      "toolbar_field_border": "#000000",
+
+      "popup": "#FFB3B3",
+      "popup_text": "#000000",
+
+      "sidebar": "#FF4D4D",
+      "sidebar_text": "#FFFFFF"
+    }
+  }
+}

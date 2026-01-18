@@ -1,0 +1,32 @@
+{
+  "manifest_version": 2,
+  "name": "Purple Theme",
+  "version": "1.0.0",
+  "description": "A purple-themed theme based on shades of purple (Colorhunt style).",
+  "theme": {
+    "colors": {
+      "frame": "#E8D7FF",
+      "frame_inactive": "#E8D7FF",
+
+      "toolbar": "#C9A9FF",
+      "toolbar_text": "#000000",
+
+      "tab_background_text": "#000000",
+      "tab_background": "#FFFFFF",
+      "tab_text": "#FFFFFF",
+      "tab_selected": "#8B5CF6",
+      "tab_selected_text": "#FFFFFF",
+      "tab_selected_border": "#000000",
+
+      "toolbar_field": "#FFFFFF",
+      "toolbar_field_text": "#000000",
+      "toolbar_field_border": "#000000",
+
+      "popup": "#C9A9FF",
+      "popup_text": "#000000",
+
+      "sidebar": "#8B5CF6",
+      "sidebar_text": "#FFFFFF"
+    }
+  }
+}

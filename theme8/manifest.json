@@ -1,0 +1,32 @@
+{
+  "manifest_version": 2,
+  "name": "Wine Red Theme",
+  "version": "1.0.0",
+  "description": "A wine red themed theme based on shades of burgundy and wine.",
+  "theme": {
+    "colors": {
+      "frame": "#7B0323",
+      "frame_inactive": "#64021C",
+
+      "toolbar": "#8C0A2B",
+      "toolbar_text": "#FFFFFF",
+
+      "tab_background_text": "#FFFFFF",
+      "tab_background": "#3B0014",
+      "tab_text": "#FFFFFF",
+      "tab_selected": "#B40F3A",
+      "tab_selected_text": "#FFFFFF",
+      "tab_selected_border": "#FFFFFF",
+
+      "toolbar_field": "#5B001F",
+      "toolbar_field_text": "#FFFFFF",
+      "toolbar_field_border": "#FFFFFF",
+
+      "popup": "#8C0A2B",
+      "popup_text": "#FFFFFF",
+
+      "sidebar": "#B40F3A",
+      "sidebar_text": "#FFFFFF"
+    }
+  }
+}

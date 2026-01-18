@@ -1,0 +1,32 @@
+{
+  "manifest_version": 2,
+  "name": "Green Theme",
+  "version": "1.0.0",
+  "description": "A green theme which contains the different shades of green.",
+  "theme": {
+    "colors": {
+      "frame": "#F0FFDF",
+      "frame_inactive": "#F0FFDF",
+
+      "toolbar": "#A8DF8E",
+      "toolbar_text": "#000000",
+
+      "tab_background_text": "#000000",
+      "tab_background":"#FFFFFF",
+      "tab_text": "#f5f5ff",
+      "tab_selected": "#B4E50D",
+      "tab_selected_text": "#000000",
+      "tab_selected_border" :"#000000",
+
+      "toolbar_field": "#FFFFFF",
+      "toolbar_field_text": "#000000",
+      "toolbar_field_border": "black",
+
+      "popup": "#FFFFFF",
+      "popup_text": "#000000",
+
+      "sidebar": "#C5D89D",
+      "sidebar_text": "#000000"
+    }
+  }
+}

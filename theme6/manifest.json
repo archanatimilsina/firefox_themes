@@ -1,0 +1,32 @@
+{
+  "manifest_version": 2,
+  "name": "Yellow Theme",
+  "version": "1.0.0",
+  "description": "A yellow-themed theme based on shades of #FFF58A.",
+  "theme": {
+    "colors": {
+      "frame": "#FFF7B3",
+      "frame_inactive": "#FFF7B3",
+
+      "toolbar": "#FFF58A",
+      "toolbar_text": "#000000",
+
+      "tab_background_text": "#000000",
+      "tab_background": "#FFFFFF",
+      "tab_text": "#FFFFFF",
+      "tab_selected": "#FFE34D",
+      "tab_selected_text": "#000000",
+      "tab_selected_border": "#000000",
+
+      "toolbar_field": "#FFFFFF",
+      "toolbar_field_text": "#000000",
+      "toolbar_field_border": "#000000",
+
+      "popup": "#FFF58A",
+      "popup_text": "#000000",
+
+      "sidebar": "#FFE34D",
+      "sidebar_text": "#000000"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "manifest_version": 2,
+  "name": "Sky Blue Theme",
+  "version": "1.0.0",
+  "description": "A sky blue-themed theme based on shades of blue.",
+  "theme": {
+    "colors": {
+      "frame": "#D6F0FF",
+      "frame_inactive": "#D6F0FF",
+
+      "toolbar": "#B3E7FF",
+      "toolbar_text": "#000000",
+
+      "tab_background_text": "#000000",
+      "tab_background": "#FFFFFF",
+      "tab_text": "#FFFFFF",
+      "tab_selected": "#66CFFF",
+      "tab_selected_text": "#FFFFFF",
+      "tab_selected_border": "#000000",
+
+      "toolbar_field": "#FFFFFF",
+      "toolbar_field_text": "#000000",
+      "toolbar_field_border": "#000000",
+
+      "popup": "#B3E7FF",
+      "popup_text": "#000000",
+
+      "sidebar": "#66CFFF",
+      "sidebar_text": "#FFFFFF"
+    }
+  }
+}

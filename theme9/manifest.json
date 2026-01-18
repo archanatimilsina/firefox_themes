@@ -1,0 +1,32 @@
+{
+  "manifest_version": 2,
+  "name": "Silver Gradient Theme",
+  "version": "1.0.0",
+  "description": "A silver gradient look using different shades of silver.",
+  "theme": {
+    "colors": {
+      "frame": "#F4F4F4",
+      "frame_inactive": "#EAEAEA",
+
+      "toolbar": "#EDEDED",
+      "toolbar_text": "#000000",
+
+      "tab_background_text": "#000000",
+      "tab_background": "#FFFFFF",
+      "tab_text": "#FFFFFF",
+      "tab_selected": "#D9D9D9",
+      "tab_selected_text": "#000000",
+      "tab_selected_border": "#000000",
+
+      "toolbar_field": "#F2F2F2",
+      "toolbar_field_text": "#000000",
+      "toolbar_field_border": "#BDBDBD",
+
+      "popup": "#EDEDED",
+      "popup_text": "#000000",
+
+      "sidebar": "#D9D9D9",
+      "sidebar_text": "#000000"
+    }
+  }
+}

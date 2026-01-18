@@ -1,0 +1,32 @@
+{
+  "manifest_version": 2,
+  "name": "Dark Maroon Theme",
+  "version": "1.0.0",
+  "description": "A dark maroon theme based on shades of #3A0519.",
+  "theme": {
+    "colors": {
+      "frame": "#3A0519",
+      "frame_inactive": "#2E0416",
+
+      "toolbar": "#5A0B25",
+      "toolbar_text": "#FFFFFF",
+
+      "tab_background_text": "#FFFFFF",
+      "tab_background": "#1B040D",
+      "tab_text": "#FFFFFF",
+      "tab_selected": "#7B0F2F",
+      "tab_selected_text": "#FFFFFF",
+      "tab_selected_border": "#FFFFFF",
+
+      "toolbar_field": "#4B0A21",
+      "toolbar_field_text": "#FFFFFF",
+      "toolbar_field_border": "#FFFFFF",
+
+      "popup": "#5A0B25",
+      "popup_text": "#FFFFFF",
+
+      "sidebar": "#7B0F2F",
+      "sidebar_text": "#FFFFFF"
+    }
+  }
+}

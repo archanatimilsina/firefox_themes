@@ -1,0 +1,32 @@
+{
+  "manifest_version": 2,
+  "name": "Pink Theme",
+  "version": "1.0.0",
+  "description": "A pink-themed theme based on shades of pinks.",
+  "theme": {
+    "colors": {
+      "frame": "#FBCFE8",
+      "frame_inactive": "#FBCFE8",
+
+      "toolbar": "#FFD8DF",
+      "toolbar_text": "#000000",
+
+      "tab_background_text": "#000000",
+      "tab_background": "#FFFFFF",
+      "tab_text": "#FFFFFF",
+      "tab_selected": "#F875AA",
+      "tab_selected_text": "#FFFFFF",
+      "tab_selected_border": "#000000",
+
+      "toolbar_field": "#FFFFFF",
+      "toolbar_field_text": "#000000",
+      "toolbar_field_border": "#000000",
+
+      "popup": "#FFD8DF",
+      "popup_text": "#000000",
+
+      "sidebar": "#F875AA",
+      "sidebar_text": "#FFFFFF"
+    }
+  }
+}

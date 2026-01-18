@@ -1,0 +1,32 @@
+{
+  "manifest_version": 2,
+  "name": "Gold Theme",
+  "version": "1.0.0",
+  "description": "A gold themed theme based on shades of gold.",
+  "theme": {
+    "colors": {
+      "frame": "#FFD700",
+      "frame_inactive": "#F1C40F",
+
+      "toolbar": "#FFCF33",
+      "toolbar_text": "#000000",
+
+      "tab_background_text": "#000000",
+      "tab_background": "#FFFFFF",
+      "tab_text": "#FFFFFF",
+      "tab_selected": "#FFB400",
+      "tab_selected_text": "#000000",
+      "tab_selected_border": "#000000",
+
+      "toolbar_field": "#FFFFFF",
+      "toolbar_field_text": "#000000",
+      "toolbar_field_border": "#000000",
+
+      "popup": "#FFCF33",
+      "popup_text": "#000000",
+
+      "sidebar": "#FFB400",
+      "sidebar_text": "#000000"
+    }
+  }
+}
