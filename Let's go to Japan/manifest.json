@@ -1,0 +1,34 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "let's go to Japan",
+  "theme": {
+    "images": {
+      "additional_backgrounds": [
+        "images/0.jpg"
+      ]
+    },
+    "properties": {
+      "additional_backgrounds_alignment": [
+        "center center"
+      ],
+      "additional_backgrounds_tiling": [
+        "repeat"
+      ]
+    },
+    "colors": {
+      "toolbar": "rgb(201, 225, 249)",
+      "toolbar_text": "rgb(0, 0, 0)",
+      "frame": "rgb(115, 198, 248)",
+      "tab_background_text": "rgb(0, 0, 0)",
+      "toolbar_field": "rgb(255, 255, 255)",
+      "toolbar_field_text": "rgb(0, 0, 0)",
+      "tab_line": "rgba(0, 0, 0, 0.65)",
+      "popup": "rgb(139, 211, 250)",
+      "popup_text": "rgb(0, 0, 0)",
+      "frame_inactive": "rgb(9, 9, 9)",
+      "ntp_background": "rgb(34, 25, 77)",
+      "tab_loading": "rgba(0, 0, 0, 0.65)"
+    }
+  }
+}

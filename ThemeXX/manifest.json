@@ -1,0 +1,24 @@
+{
+  "manifest_version": 2,
+  "name": "Let's go to Japan",
+  "version": "1.0.0",
+  "description": "You can put the random img in the behind",
+  "theme": {
+    "colors": {
+      "toolbar": "#C9E1F9",
+      "toolbar_text": "#000000",
+      "popup": "#8BD3FA",
+      "popup_text": "#000000",
+      "sidebar": "#FFB400",
+      "sidebar_text": "#000000"
+    },
+    "images": {
+      "frame": "images/shine.jpg",
+      "additional_backgrounds": ["images/shine.jpg"]
+    },
+    "properties": {
+      "additional_backgrounds_alignment": ["bottom right"],
+      "additional_backgrounds_tiling": ["no-repeat"]
+    }
+  }
+}
